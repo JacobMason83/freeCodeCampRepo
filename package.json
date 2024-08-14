@@ -1,5 +1,6 @@
 {
 	"name": "Learn NPM FCC",
+	"author": "Jane Doe",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
