@@ -2,7 +2,8 @@
 	"name": "Learn NPM FCC",
 	"author": "Jane Doe",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"gitpod": "^1.1.4"
 	},
 	"main": "server.js",
 	"scripts": {
